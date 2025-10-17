@@ -1,0 +1,17 @@
+commit dc0de30fd92e1e6415faca2ea9e6d01be0c024a7
+Author: Marta <marta.llab.daw@gmail.com>
+Date:   Fri Oct 17 17:34:40 2025 +0200
+
+    Modificat fitxer exemple.txt
+
+commit fc0fad6b005983ab7ca78386b17854c58e1a09d6
+Author: Marta <marta.llab.daw@gmail.com>
+Date:   Fri Oct 17 17:31:34 2025 +0200
+
+    Afegit fitxer exemple.txt
+
+commit cbfcbec7f38b1fcf70d6837edbd2fcbc2b6b94d8
+Author: Marta-daw <marta.llab.daw@gmail.com>
+Date:   Fri Oct 17 16:12:16 2025 +0200
+
+    Initial commit
